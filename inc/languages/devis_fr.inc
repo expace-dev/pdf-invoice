@@ -1,10 +1,10 @@
 <?php
-    $lang['number']   = 'Référence';
-    $lang['date']     = 'Date de facturation';
+    $lang['number']   = 'Devis N°';
+    $lang['date']     = 'Date';
     $lang['time']     = 'Heure de facturation';
-    $lang['due']      = 'Date d\'échéance';
-    $lang['to']       = 'Facturé à';
-    $lang['from']     = 'Facturé par';
+    $lang['due']      = 'Echéance';
+    $lang['to']       = 'Client';
+    $lang['from']     = 'Prestataire';
     $lang['product']  = 'Produit';
     $lang['qty']      = 'Quantité';
     $lang['price']    = 'Prix unit. HT';
